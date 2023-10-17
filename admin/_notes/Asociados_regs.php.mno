@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_usu_regs" value="name:id_usuario;datatype:int,name:nombres_apellidos;datatype:string,name:cedula;datatype:string,name:telefono;datatype:string" />
+	<infoitem key="UD_datos_usuarios" value="name:nombres_apellidos;datatype:string,name:cedula;datatype:string,name:email;datatype:string,name:telefono;datatype:string,name:id_usuario;datatype:int" />
+</info>

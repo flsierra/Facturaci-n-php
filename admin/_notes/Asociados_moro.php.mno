@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Asociados_Mor" value="name:id_detalle;datatype:int,name:fecha_pago;datatype:date,name:total_pago;datatype:int,name:nombres_apellidos;datatype:string" />
+</info>

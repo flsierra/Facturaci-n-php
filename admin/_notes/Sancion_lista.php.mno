@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Sancion_list" value="name:id_sancion;datatype:int,name:estado;datatype:string,name:valores;datatype:int" />
+</info>

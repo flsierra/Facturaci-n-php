@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Pagos_list" value="name:id_medio;datatype:int,name:oficina;datatype:string,name:direccion;datatype:string,name:fecha;datatype:date,name:id_detalle;datatype:int,name:total_pago;datatype:int" />
+</info>

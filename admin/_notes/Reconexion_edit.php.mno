@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Edit_Recon" value="name:id_reconexion;datatype:int,name:estado;datatype:string,name:valor;datatype:int" />
+</info>

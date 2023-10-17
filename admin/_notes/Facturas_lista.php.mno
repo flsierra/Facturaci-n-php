@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1Usuarios" value="name:id_usuario;datatype:int,name:nombres_apellidos;datatype:string,name:cedula;datatype:string,name:email;datatype:string,name:telefono;datatype:string,name:direccion;datatype:string,name:password;datatype:string,name:rol;datatype:int" />
+	<infoitem key="UD_Lista_fac" value="name:id_detalle;datatype:int,name:fecha_pago;datatype:date,name:soporte;datatype:string,name:nombres_apellidos;datatype:string,name:value;datatype:int,name:mes;datatype:string,name:values;datatype:int,name:valores;datatype:int,name:valor;datatype:int,name:total_pago;datatype:int" />
+</info>

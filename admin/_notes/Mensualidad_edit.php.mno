@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Mensualidad_edit" value="name:id_mensualidad;datatype:int,name:mes;datatype:string,name:ano;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1_Mes" value="name:id_mensualidad;datatype:int,name:mes;datatype:string,name:ano;datatype:string" />
+	<infoitem key="UD_Egresos_list" value="name:id_egreso;datatype:int,name:mes;datatype:string,name:productos;datatype:string,name:cantidad;datatype:string,name:fecha;datatype:date,name:soporte;datatype:string,name:valor_total;datatype:int" />
+</info>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Facturas_edit" value="name:id_detalle;datatype:int,name:fecha_pago;datatype:date,name:soporte;datatype:string,name:id_usuario;datatype:int,name:id_deuda;datatype:int,name:id_mensualidad;datatype:int,name:id_inscripcion;datatype:int,name:id_sancion;datatype:int,name:id_reconexion;datatype:int,name:total_pago;datatype:int" />
+	<infoitem key="UD_RecordsetUsuario" value="name:id_usuario;datatype:int,name:nombres_apellidos;datatype:string,name:cedula;datatype:string,name:email;datatype:string,name:telefono;datatype:string,name:direccion;datatype:string,name:password;datatype:string,name:rol;datatype:int" />
+	<infoitem key="UD_RecordsetDeuda" value="name:id_deuda;datatype:int,name:estado;datatype:string,name:value;datatype:int" />
+	<infoitem key="UD_RecordsetMensualidad" value="name:id_mensualidad;datatype:int,name:mes;datatype:string,name:ano;datatype:string" />
+	<infoitem key="UD_RecordsetInscrip" value="name:id_inscripcion;datatype:int,name:estado;datatype:string,name:values;datatype:int" />
+	<infoitem key="UD_RecordsetSancion" value="name:id_sancion;datatype:int,name:estado;datatype:string,name:valores;datatype:int" />
+	<infoitem key="UD_RecordsetRecon" value="name:id_reconexion;datatype:int,name:estado;datatype:string,name:valor;datatype:int" />
+</info>

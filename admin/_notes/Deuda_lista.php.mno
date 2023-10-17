@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Deudas_list" value="name:id_deuda;datatype:int,name:estado;datatype:string,name:value;datatype:int" />
+</info>

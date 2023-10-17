@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1Detalle" value="name:id_detalle;datatype:int,name:fecha_pago;datatype:date,name:soporte;datatype:string,name:id_usuario;datatype:int,name:id_deuda;datatype:int,name:id_mensualidad;datatype:int,name:id_inscripcion;datatype:int,name:id_sancion;datatype:int,name:id_reconexion;datatype:int,name:total_pago;datatype:int" />
+	<infoitem key="UD_Insert_pago" value="name:id_medio;datatype:int,name:oficina;datatype:string,name:direccion;datatype:string,name:fecha;datatype:date,name:id_detalle;datatype:int" />
+	<infoitem key="UD_Recordset1Dir" value="name:id_medio;datatype:int,name:oficina;datatype:string,name:direccion;datatype:string,name:fecha;datatype:date,name:id_detalle;datatype:int" />
+	<infoitem key="UD_Recordset1Ofc" value="name:id_medio;datatype:int,name:oficina;datatype:string,name:direccion;datatype:string,name:fecha;datatype:date,name:id_detalle;datatype:int" />
+</info>

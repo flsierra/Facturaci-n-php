@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1Usuarios" value="name:id_usuario;datatype:int,name:nombres_apellidos;datatype:string,name:cedula;datatype:string,name:email;datatype:string,name:telefono;datatype:string,name:direccion;datatype:string,name:password;datatype:string,name:rol;datatype:int" />
+	<infoitem key="UD_Recordset1deuda" value="name:id_deuda;datatype:int,name:estado;datatype:string,name:value;datatype:string" />
+	<infoitem key="UD_Recordset1mensualida" value="name:id_mensualidad;datatype:int,name:mes;datatype:string,name:ano;datatype:string" />
+	<infoitem key="UD_Recordset1inscripcion" value="name:id_inscripcion;datatype:int,name:estado;datatype:string,name:values;datatype:string" />
+	<infoitem key="UD_Recordset1sancion" value="name:id_sancion;datatype:int,name:estado;datatype:string,name:valores;datatype:string" />
+	<infoitem key="UD_Recordset1reconexion" value="name:id_reconexion;datatype:int,name:estado;datatype:string,name:valor;datatype:string" />
+</info>
